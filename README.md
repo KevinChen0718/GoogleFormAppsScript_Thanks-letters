@@ -25,3 +25,15 @@
 未來期望整合 Gemini AI，實現動態回應的自動信件產出！
 
 ---
+## 筆記：
+
+如果是要針對Google "表單" 進行語法的設定，要在畫面右手邊三個點點，點下後選擇Apps Script
+<img width="1341" alt="image" src="https://github.com/user-attachments/assets/df5d4970-96e6-4c4f-8af2-4a5efb944d20" />
+
+接著要針對這個檔案觸發，左手邊選單選到「觸發條件」後，就可以在事件選到"表單"，而不是試算表
+<img width="714" alt="image" src="https://github.com/user-attachments/assets/1966904d-a924-4d7c-a6f4-c648bfe0db11" />
+
+最後若要看文件觸發的結果，可以到左手邊選單「執行項目」確認
+因為這個程式碼有寫到讓log顯示，因此可以在記錄檔看到截取到的資訊，以及程式做的動作！
+<img width="1212" alt="image" src="https://github.com/user-attachments/assets/06b48049-747e-449e-ac37-6d3a2ab15975" />
+
